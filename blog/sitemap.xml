@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./</loc>
-<lastmod>2024-03-01T07:59:01-00:00</lastmod>
+<lastmod>2024-03-22T08:47:12-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./archives.html</loc>
-<lastmod>2024-03-01T07:59:01-00:00</lastmod>
+<lastmod>2024-03-22T08:47:12-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./tags.html</loc>
-<lastmod>2024-03-01T07:59:01-00:00</lastmod>
+<lastmod>2024-03-22T08:47:12-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./categories.html</loc>
-<lastmod>2024-03-01T07:59:01-00:00</lastmod>
+<lastmod>2024-03-22T08:47:12-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -39,36 +39,64 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>./2024-Spring-w1-blog-tutorial.html</loc>
-<lastmod>2024-03-01T07:57:28+08:00</lastmod>
+<loc>./2024-Spring-w4-blog-tutorial.html</loc>
+<lastmod>2024-03-22T08:46:06+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./category/w1.html</loc>
-<lastmod>2024-03-01T07:57:28+08:06</lastmod>
+<loc>./2024-Spring-w5-blog-tutorial.html</loc>
+<lastmod>2024-03-22T08:46:35+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./2024-Spring-w0-blog-tutorial.html</loc>
+<lastmod>2024-03-22T08:42:31+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./category/w0.html</loc>
+<lastmod>2024-03-22T08:42:31+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./category/w4.html</loc>
+<lastmod>2024-03-22T16:43:00+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./category/w5.html</loc>
+<lastmod>2024-03-22T16:43:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./tag/wang-zhi-bian-xie.html</loc>
-<lastmod>2024-03-01T07:57:28+08:06</lastmod>
+<lastmod>2024-03-22T16:43:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./tag/pelican.html</loc>
-<lastmod>2024-03-01T07:57:28+08:06</lastmod>
+<lastmod>2024-03-22T16:43:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./author/kmol.html</loc>
-<lastmod>2024-03-01T07:57:28+08:06</lastmod>
+<lastmod>2024-03-22T16:43:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
