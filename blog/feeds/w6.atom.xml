@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>41123153協同產品設計實習 - w6</title><link href="./" rel="alternate"></link><link href="./feeds/w6.atom.xml" rel="self"></link><id>./</id><updated>2024-04-12T06:51:28+08:00</updated><entry><title>cd2024 W6</title><link href="./41123153_w6.html" rel="alternate"></link><published>2024-03-29T17:00:00+08:00</published><updated>2024-04-12T06:51:28+08:00</updated><author><name>41123153</name></author><id>tag:None,2024-03-29:./41123153_w6.html</id><summary type="html">&lt;p&gt;記錄第6週老師上課內容以及學生做了什麼&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>41123153協同產品設計實習 - w6</title><link href="./" rel="alternate"></link><link href="./feeds/w6.atom.xml" rel="self"></link><id>./</id><updated>2024-04-12T06:54:53+08:00</updated><entry><title>cd2024 W6</title><link href="./41123153_w6.html" rel="alternate"></link><published>2024-03-29T17:00:00+08:00</published><updated>2024-04-12T06:54:53+08:00</updated><author><name>41123153</name></author><id>tag:None,2024-03-29:./41123153_w6.html</id><summary type="html">&lt;p&gt;記錄第6週老師上課內容以及學生做了什麼&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;記錄第6週老師上課內容以及學生做了什麼&lt;/p&gt;
 
 
-&lt;h1&gt;W6上課內容..&lt;/h1&gt;
+&lt;h1&gt;W6上課內容&lt;/h1&gt;
 &lt;p&gt;1.老師錄了兩支新的教學影片:取下子模組, 以及更新學員倉儲內容、利用 pelicanconf py 整合各組員的網誌&lt;/p&gt;
 &lt;p&gt;3.老師給學生一些時間把未完成的分組任務繼續進行&lt;/p&gt;
 &lt;h1&gt;學生做了什麼&lt;/h1&gt;
