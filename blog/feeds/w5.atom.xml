@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>41123153協同產品設計實習 - w5</title><link href="./" rel="alternate"></link><link href="./feeds/w5.atom.xml" rel="self"></link><id>./</id><updated>2024-03-29T06:48:23+08:00</updated><entry><title>2024 Spring 課程</title><link href="./41123153_w5.html" rel="alternate"></link><published>2024-03-22T16:00:00+08:00</published><updated>2024-03-29T06:48:23+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-22:./41123153_w5.html</id><summary type="html">&lt;p&gt;記錄第5週老師上課內容以及學生做了什麼&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>41123153協同產品設計實習 - w5</title><link href="./" rel="alternate"></link><link href="./feeds/w5.atom.xml" rel="self"></link><id>./</id><updated>2024-04-12T06:47:01+08:00</updated><entry><title>cd2024 W5</title><link href="./41123153_w5.html" rel="alternate"></link><published>2024-03-22T17:00:00+08:00</published><updated>2024-04-12T06:47:01+08:00</updated><author><name>41123153</name></author><id>tag:None,2024-03-22:./41123153_w5.html</id><summary type="html">&lt;p&gt;記錄第5週老師上課內容以及學生做了什麼&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;記錄第5週老師上課內容以及學生做了什麼&lt;/p&gt;
 
 
-&lt;h1&gt;&lt;/h1&gt;</content><category term="w5"></category><category term="網誌編寫"></category><category term="pelican"></category></entry></feed>
+&lt;h1&gt;W5上課內容&lt;/h1&gt;
+&lt;p&gt;1.老師錄了一支新的教學影片:組員在 Replit 以 SSH 設定管理分組倉儲的權限&lt;/p&gt;
+&lt;p&gt;2.老師將之前的教學影片整理在 &lt;a href="https://mde.tw/cd2024/blog/2024-cd-2a-w5.html"&gt;網誌&lt;/a&gt; 方便學生查看&lt;/p&gt;
+&lt;p&gt;3.老師給學生一些時間把未完成的分組任務繼續進行&lt;/p&gt;
+&lt;h1&gt;學生做了什麼&lt;/h1&gt;
+&lt;p&gt;1.將影片及逐字稿各上傳到 youtube 以及 OenDrive，開啟動態網站將youtube、逐字稿連結放到分組網站上並加上自評分數，轉靜態後推上即完成&lt;/p&gt;</content><category term="w5"></category><category term="網誌編寫"></category></entry></feed>
